@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matthew 
 - 👀 I’m interested in Software Development, data science and analytics
 - 🌱 I’m currently learning HTML, CSS through the Odin Project and freecodecamp.com. I recently completed Google Data Analytics certificate on the side.
-- 🫂I’m looking to collaborate on a web application or analytics, or machine learning related project
+- 🐱‍👤 I’m looking to collaborate on a web application or analytics, or machine learning related project
 - 📫 How to reach me: email 
 
 <!---
